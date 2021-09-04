@@ -1,0 +1,14 @@
+{
+  "name": "nirek",
+  "version": "1.0.0",
+  "description": "Screen recorder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amospikins",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
